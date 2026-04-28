@@ -50,9 +50,3 @@ Data       API crawling · Web scraping · Preprocessing
 ---
 
 *Seeking M.S. positions in AI / Data Science / Sports & Marketing Analytics (2026–2027 entry)*
-
-
-# ============================================================
-# FILE 2: 가짜리뷰 탐지 레포 README
-# 경로: sangchul-lee/fake-review-detection/README.md
-# ============================================================
